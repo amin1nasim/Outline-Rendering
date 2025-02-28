@@ -1,0 +1,24 @@
+# Ignore build directories
+x64/
+A1/x64/
+
+# Ignore Visual Studio files
+*.suo
+*.user
+*.VC.db
+.vs
+
+# Ignore build artifacts
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+.DS_Store
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.tlog/
